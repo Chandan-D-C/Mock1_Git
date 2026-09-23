@@ -1,1 +1,1 @@
-# Mock1_Git
+this repo created for github mocktest purpose.
